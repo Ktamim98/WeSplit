@@ -1,9 +1,8 @@
 # WeSplit
 
+WeSplit is a simple app that helps you split a bill between a group of people. It allows you to enter the total amount of the bill, the number of people splitting the bill, and the percentage of tip you want to give, and it calculates the amount each person should pay.
 
 https://github.com/Ktamim98/WeSplit/assets/124142522/98c0aa12-8e6c-42b4-9faa-20964ae81ead
-
-WeSplit is a simple app that helps you split a bill between a group of people. It allows you to enter the total amount of the bill, the number of people splitting the bill, and the percentage of tip you want to give, and it calculates the amount each person should pay.
 
 ## Getting Started
 
