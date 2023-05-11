@@ -34,9 +34,6 @@ To get started with WeSplit, simply download or clone the project, open it in Xc
 - iOS 14.0+
 - Xcode 12.0+
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Credit
 This project was made with the help of resources from Hacking with Swift by Paul Hudson(@twostraws). The 100 Days of SwiftUI tutorial series was followed to create this app. All credit goes to the Hacking with Swift team for their excellent resources and tutorials.
